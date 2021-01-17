@@ -2,7 +2,7 @@
 
 ![](assets/teaser.png)
 
-This repository contains code and study materials for the paper **"InfoColorizer: Interactive Recommendation of Color Palettes for Infographics with Machine Intelligence"**
+This repository contains code and study materials for the paper _InfoColorizer: Interactive Recommendation of Color Palettes for Infographics,_ contributed by Lin-Ping Yuan, Ziqi Zhou, Jian Zhao, Yiqiu Guo, Fan Du, and Huamin Qu.
 
 ----
 ## Introduction
