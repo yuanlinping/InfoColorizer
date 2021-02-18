@@ -1,4 +1,4 @@
-# InfoColorizer
+# InfoColorizer: Interactive Recommendation of Color Palettes for Infographics
 
 ![](assets/teaser.png)
 
@@ -49,12 +49,10 @@ Check [here](https://bit.ly/38zinpV) for more examples, including those generate
 ```
 ## Cite this work
 ```
-@misc{yuan2021infocolorizer,
-      title={InfoColorizer: Interactive Recommendation of Color Palettes for Infographics}, 
-      author={Lin-Ping Yuan and Ziqi Zhou and Jian Zhao and Yiqiu Guo and Fan Du and Huamin Qu},
-      year={2021},
-      eprint={2102.02041},
-      archivePrefix={arXiv},
-      primaryClass={cs.HC}
+@article{yuan2021infocolorizer,
+  title={InfoColorizer: Interactive Recommendation of Color Palettes for Infographics},
+  author={Yuan, Lin-Ping and Zhou, Ziqi and Zhao, Jian and Guo, Yiqiu and Du, Fan and Qu, Huamin},
+  journal={arXiv preprint arXiv:2102.02041},
+  year={2021}
 }
 ```
