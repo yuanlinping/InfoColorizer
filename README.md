@@ -24,6 +24,10 @@ and retrieve new recommendations in an iterative manner (the blue arrows).
 
 ![Recommended Palettes Examples](assets/more_examples.png)
 
+## Feature Extraction Algorithm
+As described in [Section 5.1.1](https://arxiv.org/pdf/2102.02041.pdf), we extract features at different levels and construct a tree that captures spatial relationship of infographic elements. The corresponding code is mainly at [./backend/treeconstructor](backend/treeconstructor).
+![](assets/feature_extraction.png)
+
 ## Deployment
 ### Prerequisite:
 [Node](https://nodejs.org/) and [Python](https://www.python.org/)
