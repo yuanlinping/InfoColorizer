@@ -2,7 +2,7 @@
 
 ![](assets/teaser.png)
 
-This repository contains code and study materials for the paper _InfoColorizer: Interactive Recommendation of Color Palettes for Infographics,_ contributed by Lin-Ping Yuan, Ziqi Zhou, Jian Zhao, Yiqiu Guo, Fan Du, and Huamin Qu. The paper can be found [here](https://arxiv.org/pdf/2102.02041.pdf). All rights reserved by authors.
+This repository contains code and study materials for the paper: Linping Yuan, Ziqi Zhou, Jian Zhao, Yiqiu Guo, Fan Du, Huamin Qu, [InfoColorizer: Interactive Recommendation of Color Palettes for Infographics](https://ieeexplore.ieee.org/document/9444798), IEEE Transactions on Visualization and Computer Graphics, 2021. An ArXiv copy can also be downloaded [here](https://arxiv.org/pdf/2102.02041.pdf). 
 
 ----
 ## Introduction
@@ -50,7 +50,7 @@ As described in [Section 5.1.1](https://arxiv.org/pdf/2102.02041.pdf), we extrac
 @article{yuan2021infocolorizer,
   title={InfoColorizer: Interactive Recommendation of Color Palettes for Infographics},
   author={Yuan, Lin-Ping and Zhou, Ziqi and Zhao, Jian and Guo, Yiqiu and Du, Fan and Qu, Huamin},
-  journal={arXiv preprint arXiv:2102.02041},
+  journal={IEEE Transactions on Visualization and Computer Graphics},
   year={2021}
 }
 ```
